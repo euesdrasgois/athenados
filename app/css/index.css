@@ -156,5 +156,7 @@ a {
     list-style: none;
 }
 .alunos span {
-    float: left;
+    display: inline-block;
+    height: 22%;
+    width: 22%;
 }
