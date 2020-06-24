@@ -161,9 +161,12 @@ a {
 .alunos li {
     color: white;
     font-weight: bold;
+    font-size: 10pt;
+    vertical-align: middle;
     font-family: Abel;
     float: left;
     height: 100px;
     width: 100px;
-    background-color: #b63450; 
+    background-color: #b63450;
+    padding: 10px;
 }
