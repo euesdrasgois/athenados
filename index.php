@@ -167,18 +167,18 @@
         <h2>ALUNOS ENVOLVIDOS</h2>
     </div>
     <ul class="alunos">
-        <div><li class="aluno-a"><p>Aline Estéfane Machado Figueiredo <br> 3ºD/2019</p></li></div>
-        <div><li class="aluno-b"><p> Andrielly Maria Varjão Silva <br> 3ºC/2019</p></li></div>
-        <div><li class="aluno-a"><p>Beatriz Cardoso da Silva Cavalcante <br> 3ºD/2019</p></li></div>
-        <div><li class="aluno-b"><p>Esdras Santos Gois <br> 3ºD/2019</p></li></div>
-        <div><li class="aluno-b"><p>Gabriel Reis Santana <br> 2ºD/2019</p></li></div>
-        <div><li class="aluno-a"><p>Gabriela Silva Gomes <br> 3ºD/2019</p></li></div>
-        <div><li class="aluno-b"><p>Íris Néo Rocha <br> 3ºF/2019</p></li></div>
-        <div><li class="aluno-a"><p>Lorenna Santos Nascimento <br> 2ºD/2019</p></li></div>
-        <div><li class="aluno-none"></li></div>
-        <div><li class="aluno-b"><p>Natanael Gomes Cardoso <br> 2ºA/2019</p></li></div>
-        <div><li class="aluno-a"><p>Victória Guadalupe de Oliveira Aragão <br> 3ºC/2019</p></li></div>
-        <div><li class="aluno-none"></li></div>
+        <li class="aluno-a"><div>Aline Estéfane Machado Figueiredo <br> 3ºD/2019</div></li>
+        <li class="aluno-b"><div> Andrielly Maria Varjão Silva <br> 3ºC/2019</div></li>
+        <li class="aluno-a"><div>Beatriz Cardoso da Silva Cavalcante <br> 3ºD/2019</div></li>
+        <li class="aluno-b"><div>Esdras Santos Gois <br> 3ºD/2019</div></li>
+        <li class="aluno-b"><div>Gabriel Reis Santana <br> 2ºD/2019</div></li>
+        <li class="aluno-a"><div>Gabriela Silva Gomes <br> 3ºD/2019</div></li>
+        <li class="aluno-b"><div>Íris Néo Rocha <br> 3ºF/2019</div></li>
+        <li class="aluno-a"><div>Lorenna Santos Nascimento <br> 2ºD/2019</div></li>
+        <li class="aluno-none"></li>
+        <li class="aluno-b"><div>Natanael Gomes Cardoso <br> 2ºA/2019</div></li>
+        <li class="aluno-a"><div>Victória Guadalupe de Oliveira Aragão <br> 3ºC/2019</div></li>
+        <li class="aluno-none"></li>
     </ul>
 
 
