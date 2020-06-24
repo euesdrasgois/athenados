@@ -150,33 +150,3 @@ a {
     font-weight: bold;
     text-align: center; 
 }
-.alunos {
-    width: 90%;
-    margin: 0 0 0 5%;
-    color: white;
-    font-weight: bold;
-    font-size: 10pt;
-    font-family: Abel;
-    text-align: center;
-}
-.aluno-a {
-    background-color: #b63450;   
-    display: inline-block;
-    height: 100px;
-    width: 100px;
-
-}
-.aluno-b {
-    display: inline-block;
-    background-color: #4d2765; 
-    height: 100px;
-    width: 100px;
-}
-.aluno-a div {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
