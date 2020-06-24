@@ -152,12 +152,9 @@ a {
 }
 .alunos {
     width: 90%;
-    text-align: center;
+    overflow: hidden;
+    list-style: none;
 }
-.alunos div {
-    width: 22%;
-    height: 22%;
-    display: inline-block;
-    background-color: #b63450;
-    color: white;
+.alunos span {
+    float: left;
 }
