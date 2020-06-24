@@ -150,3 +150,9 @@ a {
     font-weight: bold;
     text-align: center; 
 }
+.alunos {
+    width: 90%;
+}
+.alunos div {
+    width: 22%;
+}

@@ -166,7 +166,7 @@
     <div class="h2">
         <h2>ALUNOS ENVOLVIDOS</h2>
     </div>
-    <span class="alunos">
+    <div class="alunos">
         <div>&bull; Aline Estéfane Machado Figueiredo - 3ºD/2019</div>
         <div>&bull; Andrielly Maria Varjão Silva - 3ºC/2019</div>
         <div>&bull; Beatriz Cardoso da Silva Cavalcante - 3ºD/2019</div>
@@ -177,7 +177,7 @@
         <div>&bull; Lorenna Santos Nascimento - 2ºD/2019</div>
         <div>&bull; Natanael Gomes Cardoso - 2ºA/2019</div>
         <div>&bull; Victória Guadalupe de Oliveira Aragão - 3ºC/2019</div>
-    </span>
+</div>
 
 
     <div class="footer">
