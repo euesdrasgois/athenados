@@ -155,13 +155,13 @@ a {
     border-spacing: 0;
 }
 .alunos td{            
-    width: 22%; 
+    font-size: 10pt;
+    width: 22%;
     height: 22%;
-    
-    color: white;    
+    color: white;
     text-align: center;
     vertical-align: middle;
-    padding: 15px;    
+    padding: 15px;
     font-family: Abel;
 }
 .a1 {
