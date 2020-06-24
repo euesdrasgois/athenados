@@ -179,10 +179,10 @@
             <td class="a1">LORENNA SANTOS NASCIMENTO <br> 2ºD/2019</td>
         </tr>
         <tr>
-        <td></td>
-        <td class="a2">NATANAEL GOMES CARDOSO <br> 2ºA/2019</td>
-        <td class="a1">VICTÓRIA GUADALUPE DE OLIVEIRA ARAGÃO <br> 3ºC/2019</td>
-        <td></td>
+            <td></td>
+            <td class="a2">NATANAEL GOMES CARDOSO <br> 2ºA/2019</td>
+            <td class="a1">VICTÓRIA GUADALUPE DE OLIVEIRA ARAGÃO <br> 3ºC/2019</td>
+            <td></td>
         </tr>
     </table>
     <div class="footer">
