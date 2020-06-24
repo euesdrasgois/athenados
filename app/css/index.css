@@ -178,4 +178,6 @@ a {
     vertical-align: middle;
     font-family: Abel;
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
