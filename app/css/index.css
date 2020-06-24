@@ -16,7 +16,8 @@ font-family: 'Montserrat', sans-serif;
     position: fixed;
     left: 0;
     top: 0;
-    width: 100%;
+    width: 100%;  
+    box-shadow: 0 2px 3px #000;  
 }
 .headerMain {
     height: 100px;
@@ -32,8 +33,7 @@ font-family: 'Montserrat', sans-serif;
 }
 .h2 {    
     margin: 15px 0;
-    background-color: #4d2765;    
-    position: relative;
+    background-color: #4d2765;        
 
 }
 .h2 h2 {
