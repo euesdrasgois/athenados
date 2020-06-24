@@ -150,3 +150,25 @@ a {
     font-weight: bold;
     text-align: center; 
 }
+}
+.alunos {
+    margin: 10px;            
+    border-spacing: 0;
+}
+.alunos td{            
+    width: 100px; 
+    height: 100px;
+    
+    color: white;    
+    text-align: center;
+    vertical-align: middle;
+    padding: 15px;
+    font-size: 9pt;
+    font-family: Abel;
+}
+.a1 {
+    background-color: #b63450;   
+}
+.a2 {
+    background-color: #4d2765;
+}
