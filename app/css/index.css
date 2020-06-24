@@ -159,17 +159,24 @@ a {
     font-family: Abel;
     text-align: center;
 }
-.alunos div {
+.aluno-a {
+    background-color: #b63450;   
     display: inline-block;
     height: 100px;
     width: 100px;
-    padding: 10px;
-    vertical-align: middle;
-    margin: 0 -2px;
+
 }
-.alunos .aluno-a {
-    background-color: #b63450;   
-}
-.alunos .aluno-b {
+.aluno-b {
+    display: inline-block;
     background-color: #4d2765; 
+    height: 100px;
+    width: 100px;
 }
+.aluno-a div {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+

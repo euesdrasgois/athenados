@@ -168,35 +168,55 @@
     </div>
     <div class="alunos">
         <div class="aluno-a">
-            <span>Aline Estéfane Machado Figueiredo <br> 3ºD/2019</span>
+            <div>
+                <span>Aline Estéfane Machado Figueiredo <br> 3ºD/2019</span>
+            </div>
         </div>
         <div class="aluno-b">
-            <span> Andrielly Maria Varjão Silva <br> 3ºC/2019</span>
+            <div>
+                <span> Andrielly Maria Varjão Silva <br> 3ºC/2019</span>
+            </div>
         </div>
         <div class="aluno-a">
-            <span>Beatriz Cardoso da Silva Cavalcante <br> 3ºD/2019</span>
+            <div>
+                <span>Beatriz Cardoso da Silva Cavalcante <br> 3ºD/2019</span>
+            </div>
         </div>
         <div class="aluno-b">
-            <span>Esdras Santos Gois <br> 3ºD/2019</span>
+            <div>
+                <span>Esdras Santos Gois <br> 3ºD/2019</span>
+            </div>
         </div>
         <div class="aluno-b">
-            <span>Gabriel Reis Santana <br> 2ºD/2019</span>
+            <div>
+                <span>Gabriel Reis Santana <br> 2ºD/2019</span>
+            </div>
         </div>
         <div class="aluno-a">
-            <span>Gabriela Silva Gomes <br> 3ºD/2019</span>
+            <div>
+                <span>Gabriela Silva Gomes <br> 3ºD/2019</span>
+            </div>
         </div>
         <div class="aluno-b">
-            <span>Íris Néo Rocha <br> 3ºF/2019</span>
+            <div>
+                <span>Íris Néo Rocha <br> 3ºF/2019</span>
+            </div>
         </div>
         <div class="aluno-a">
-            <span>Lorenna Santos Nascimento <br> 2ºD/2019</span>
+            <div>
+                <span>Lorenna Santos Nascimento <br> 2ºD/2019</span>
+            </div>
         </div>
         <div class="aluno-none"></div>
         <div class="aluno-b">
-            <span>Natanael Gomes Cardoso <br> 2ºA/2019</span>
+            <div>
+                <span>Natanael Gomes Cardoso <br> 2ºA/2019</span>
+            </div>
         </div>
         <div class="aluno-a">
-            <span>Victória Guadalupe de Oliveira Aragão <br> 3ºC/2019</span>
+            <div>
+                <span>Victória Guadalupe de Oliveira Aragão <br> 3ºC/2019</span>
+            </div>
         </div>
         <div class="aluno-none"></div>
     </div>
