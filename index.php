@@ -10,7 +10,6 @@
 
 <body>
     <?php
-
     error_reporting(0);
     $host = "sql156.main-hosting.eu";
     $user = "u625718687_athenadosteam";
@@ -163,20 +162,21 @@
         </div>
     </div>
     </div>
+    <!-- EM DESENVOLVIMENTO -->
     <div class="h2">
         <h2>ALUNOS ENVOLVIDOS</h2>
     </div>
     <span class="alunos">
-        <p>&bull; Aline Estéfane Machado Figueiredo - 3ºD/2019</p>
-        <p>&bull; Andrielly Maria Varjão Silva - 3ºC/2019</p>
-        <p>&bull; Beatriz Cardoso da Silva Cavalcante - 3ºD/2019</p>
-        <p>&bull; Esdras Santos Gois - 3ºD/2019</p>
-        <p>&bull; Gabriel Reis Santana - 2ºD/2019</p>
-        <p>&bull; Gabriela Silva Gomes - 3ºD/2019</p>
-        <p>&bull; Íris Néo Rocha - 3ºF/2019</p>
-        <p>&bull; Lorenna Santos Nascimento - 2ºD/2019</p>
-        <p>&bull; Natanael Gomes Cardoso - 2ºA/2019</p>
-        <p>&bull; Victória Guadalupe de Oliveira Aragão - 3ºC/2019</li>
+        <div>&bull; Aline Estéfane Machado Figueiredo - 3ºD/2019</div>
+        <div>&bull; Andrielly Maria Varjão Silva - 3ºC/2019</div>
+        <div>&bull; Beatriz Cardoso da Silva Cavalcante - 3ºD/2019</div>
+        <div>&bull; Esdras Santos Gois - 3ºD/2019</div>
+        <div>&bull; Gabriel Reis Santana - 2ºD/2019</div>
+        <div>&bull; Gabriela Silva Gomes - 3ºD/2019</div>
+        <div>&bull; Íris Néo Rocha - 3ºF/2019</div>
+        <div>&bull; Lorenna Santos Nascimento - 2ºD/2019</div>
+        <div>&bull; Natanael Gomes Cardoso - 2ºA/2019</div>
+        <div>&bull; Victória Guadalupe de Oliveira Aragão - 3ºC/2019</div>
     </span>
 
 
