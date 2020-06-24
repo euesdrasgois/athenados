@@ -162,27 +162,17 @@ a {
 
 .alunos .aluno-a {
     background-color: #b63450;
-    float: left;
+    display: inline-block;
     height: 100px;
     width: 100px;    
     padding: 10px;
 }
 .alunos .aluno-b {
     background-color: #4d2765;
-    float: left;
+    display: inline-block;
     height: 100px;
     width: 100px;    
     padding: 10px;
     vertical-align: middle;
 
-}
-
-.alunos div{
-    color: white;
-    font-weight: bold;
-    font-size: 10pt;    
-    font-family: Abel;
-    text-align: center;
-    margin: 0;
-    padding: 0;
 }
