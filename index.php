@@ -167,17 +167,17 @@
         <h2>ALUNOS ENVOLVIDOS</h2>
     </div>
     <ul class="alunos">
-        <li class="aluno-a">Aline Estéfane Machado Figueiredo - 3ºD/2019</li>
-        <li class="aluno-b">Andrielly Maria Varjão Silva - 3ºC/2019</li>
-        <li class="aluno-a">Beatriz Cardoso da Silva Cavalcante - 3ºD/2019</li>
-        <li class="aluno-b">Esdras Santos Gois - 3ºD/2019</li>
-        <li class="aluno-b">Gabriel Reis Santana - 2ºD/2019</li>
-        <li class="aluno-a">Gabriela Silva Gomes - 3ºD/2019</li>
-        <li class="aluno-b">Íris Néo Rocha - 3ºF/2019</li>
-        <li class="aluno-a">Lorenna Santos Nascimento - 2ºD/2019</li>
+        <li class="aluno-a"><p>Aline Estéfane Machado Figueiredo <br> 3ºD/2019</p></li>
+        <li class="aluno-b"><p> Andrielly Maria Varjão Silva <br> 3ºC/2019</p></li>
+        <li class="aluno-a"><p>Beatriz Cardoso da Silva Cavalcante <br> 3ºD/2019</p></li>
+        <li class="aluno-b"><p>Esdras Santos Gois <br> 3ºD/2019</p></li>
+        <li class="aluno-b"><p>Gabriel Reis Santana <br> 2ºD/2019</p></li>
+        <li class="aluno-a"><p>Gabriela Silva Gomes <br> 3ºD/2019</p></li>
+        <li class="aluno-b"><p>Íris Néo Rocha <br> 3ºF/2019</p></li>
+        <li class="aluno-a"><p>Lorenna Santos Nascimento <br> 2ºD/2019</p></li>
         <li class="aluno-none"></li>
-        <li class="aluno-b">Natanael Gomes Cardoso - 2ºA/2019</li>
-        <li class="aluno-a">Victória Guadalupe de Oliveira Aragão - 3ºC/2019</li>
+        <li class="aluno-b"><p>Natanael Gomes Cardoso <br> 2ºA/2019</p></li>
+        <li class="aluno-a"><p>Victória Guadalupe de Oliveira Aragão <br> 3ºC/2019</p></li>
         <li class="aluno-none"></li>
     </ul>
 
