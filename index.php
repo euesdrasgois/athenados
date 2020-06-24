@@ -161,8 +161,7 @@
             </div>
         </div>
     </div>
-    </div>
-    <!-- EM DESENVOLVIMENTO -->
+    </div>   
     <div class="h2">
         <h2>ALUNOS ENVOLVIDOS</h2>
     </div>
