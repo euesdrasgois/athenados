@@ -11,7 +11,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.php [L]
 </IfModule>
-<FilesMatch "\.(html|htm|xml|txt|xsl|js|css)$">
+<FilesMatch "\.(php|html|htm|xml|txt|xsl|js|css)$">
 Header set Cache-Control "max-age=30, must-revalidate"
 </FilesMatch>
 # END WordPres
