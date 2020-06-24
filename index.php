@@ -150,7 +150,7 @@
                     <span>Formação</span>
                 </div>
             </div>
-        </div>     
+        </div>
         <div class="prof-b">
             <div id="div-a"><img src="app/src/images/professores/ronney-marcos.png" alt=""></div>
             <div id="div-b">
@@ -177,7 +177,7 @@
         <div>Lorenna Santos Nascimento - 2ºD/2019</div>
         <div>Natanael Gomes Cardoso - 2ºA/2019</div>
         <div>Victória Guadalupe de Oliveira Aragão - 3ºC/2019</div>
-</div>
+    </div>
 
 
     <div class="footer">
