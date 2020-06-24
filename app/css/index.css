@@ -181,3 +181,7 @@ a {
     margin: 0;
     padding: 0;
 }
+
+.alunos div {
+    vertical-align: middle;
+}
