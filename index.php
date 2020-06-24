@@ -167,18 +167,18 @@
         <h2>ALUNOS ENVOLVIDOS</h2>
     </div>
     <ul class="alunos">
-        <li>Aline Estéfane Machado Figueiredo - 3ºD/2019</li>
-        <li>Andrielly Maria Varjão Silva - 3ºC/2019</li>
-        <li>Beatriz Cardoso da Silva Cavalcante - 3ºD/2019</li>
-        <li>Esdras Santos Gois - 3ºD/2019</li>
-        <li>Gabriel Reis Santana - 2ºD/2019</li>
-        <li>Gabriela Silva Gomes - 3ºD/2019</li>
-        <li>Íris Néo Rocha - 3ºF/2019</li>
-        <li>Lorenna Santos Nascimento - 2ºD/2019</li>
-        <li></li>
-        <li>Natanael Gomes Cardoso - 2ºA/2019</li>
-        <li>Victória Guadalupe de Oliveira Aragão - 3ºC/2019</li>
-        <li></li>
+        <li class="aluno-a">Aline Estéfane Machado Figueiredo - 3ºD/2019</li>
+        <li class="aluno-b">Andrielly Maria Varjão Silva - 3ºC/2019</li>
+        <li class="aluno-a">Beatriz Cardoso da Silva Cavalcante - 3ºD/2019</li>
+        <li class="aluno-b">Esdras Santos Gois - 3ºD/2019</li>
+        <li class="aluno-b">Gabriel Reis Santana - 2ºD/2019</li>
+        <li class="aluno-a">Gabriela Silva Gomes - 3ºD/2019</li>
+        <li class="aluno-b">Íris Néo Rocha - 3ºF/2019</li>
+        <li class="aluno-a">Lorenna Santos Nascimento - 2ºD/2019</li>
+        <li class="aluno-none"></li>
+        <li class="aluno-b">Natanael Gomes Cardoso - 2ºA/2019</li>
+        <li class="aluno-a">Victória Guadalupe de Oliveira Aragão - 3ºC/2019</li>
+        <li class="aluno-none"></li>
     </ul>
 
 

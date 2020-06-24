@@ -166,7 +166,13 @@ a {
     font-family: Abel;
     float: left;
     height: 100px;
-    width: 100px;
-    background-color: #b63450;
+    width: 100px;    
     padding: 10px;
+}
+
+.alunos .aluno-a {
+    background-color: #b63450;
+}
+.alunos .aluno-b {
+    background-color: #4d2765;
 }
