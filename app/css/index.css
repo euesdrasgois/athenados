@@ -12,18 +12,23 @@ font-family: 'Montserrat', sans-serif;
     padding: 0;
     box-sizing: border-box;
 }
-.headerMain {    
-    height: 100px;
-    background-color: #b63450;    
-    position: relative;
+.header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
 }
-
-.headerMain img {    
-    margin: 10px 0;    
-    position: absolute;
-    height: 80px;    
-    left: 50%;
-    transform: translate(-50%, 0);
+.headerMain {
+    height: 100px;
+    background-color: #b63450;
+    text-align: center;            
+}
+.headerMain img {
+    width: 45%;
+    margin: 10px;                                  
+}
+.content {
+    margin-top: 100px;
 }
 .h2 {    
     margin: 15px 0;
