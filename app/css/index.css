@@ -152,6 +152,7 @@ a {
 }
 
 .alunos {
+    display: inline-block;
     grid-area: aluno;
     height: 100%;
     width: 100%;
