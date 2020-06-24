@@ -154,9 +154,12 @@ a {
     width: 90%;
     overflow: hidden;
     list-style: none;
+    margin: 0 0 0 10%;
+    vertical-align: middle;
+    text-align: center;
 }
 .alunos li {
     float: left;
     height: 22%;
-    width: 22%;
+    width: 22%;    
 }
