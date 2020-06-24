@@ -151,31 +151,36 @@ a {
     text-align: center; 
 }
 .alunos {
-    width: 90%;
-    overflow: hidden;
-    list-style: none;
+    width: 90%;  
     margin: 0 0 0 10%;
-    vertical-align: middle;    
+    color: white;
+    font-weight: bold;
+    font-size: 10pt;    
+    font-family: Abel;
+    text-align: center;
 }
-.alunos li {    
+
+.alunos .aluno-a {
+    background-color: #b63450;
     float: left;
     height: 100px;
     width: 100px;    
     padding: 10px;
 }
-
-.alunos .aluno-a {
-    background-color: #b63450;
-}
 .alunos .aluno-b {
     background-color: #4d2765;
+    float: left;
+    height: 100px;
+    width: 100px;    
+    padding: 10px;
+    vertical-align: middle;
+
 }
 
 .alunos div{
     color: white;
     font-weight: bold;
-    font-size: 10pt;
-    vertical-align: middle;
+    font-size: 10pt;    
     font-family: Abel;
     text-align: center;
     margin: 0;

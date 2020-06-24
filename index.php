@@ -166,20 +166,40 @@
     <div class="h2">
         <h2>ALUNOS ENVOLVIDOS</h2>
     </div>
-    <ul class="alunos">
-        <li class="aluno-a"><div>Aline Estéfane Machado Figueiredo <br> 3ºD/2019</div></li>
-        <li class="aluno-b"><div> Andrielly Maria Varjão Silva <br> 3ºC/2019</div></li>
-        <li class="aluno-a"><div>Beatriz Cardoso da Silva Cavalcante <br> 3ºD/2019</div></li>
-        <li class="aluno-b"><div>Esdras Santos Gois <br> 3ºD/2019</div></li>
-        <li class="aluno-b"><div>Gabriel Reis Santana <br> 2ºD/2019</div></li>
-        <li class="aluno-a"><div>Gabriela Silva Gomes <br> 3ºD/2019</div></li>
-        <li class="aluno-b"><div>Íris Néo Rocha <br> 3ºF/2019</div></li>
-        <li class="aluno-a"><div>Lorenna Santos Nascimento <br> 2ºD/2019</div></li>
-        <li class="aluno-none"></li>
-        <li class="aluno-b"><div>Natanael Gomes Cardoso <br> 2ºA/2019</div></li>
-        <li class="aluno-a"><div>Victória Guadalupe de Oliveira Aragão <br> 3ºC/2019</div></li>
-        <li class="aluno-none"></li>
-    </ul>
+    <div class="alunos">
+        <div class="aluno-a">
+            <span>Aline Estéfane Machado Figueiredo <br> 3ºD/2019</span>
+        </div>
+        <div class="aluno-b">
+            <span> Andrielly Maria Varjão Silva <br> 3ºC/2019</span>
+        </div>
+        <div class="aluno-a">
+            <span>Beatriz Cardoso da Silva Cavalcante <br> 3ºD/2019</span>
+        </div>
+        <div class="aluno-b">
+            <span>Esdras Santos Gois <br> 3ºD/2019</span>
+        </div>
+        <div class="aluno-b">
+            <span>Gabriel Reis Santana <br> 2ºD/2019</span>
+        </div>
+        <div class="aluno-a">
+            <span>Gabriela Silva Gomes <br> 3ºD/2019</span>
+        </div>
+        <div class="aluno-b">
+            <span>Íris Néo Rocha <br> 3ºF/2019</span>
+        </div>
+        <div class="aluno-a">
+            <span>Lorenna Santos Nascimento <br> 2ºD/2019</span>
+        </div>
+        <div class="aluno-none"></div>
+        <div class="aluno-b">
+            <span>Natanael Gomes Cardoso <br> 2ºA/2019</span>
+        </div>
+        <div class="aluno-a">
+            <span>Victória Guadalupe de Oliveira Aragão <br> 3ºC/2019</span>
+        </div>
+        <div class="aluno-none"></div>
+    </div>
 
 
     <div class="footer">
