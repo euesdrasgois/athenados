@@ -166,23 +166,28 @@
         <h2>ALUNOS ENVOLVIDOS</h2>
     </div>
     <table class="alunos">
-        <td class="a1">ALINE ESTÉFANE MACHADO FIGUEIREDO <br> 3ºD/2019</td>
-        <td class="a2">ANDRIELLY MARIA VARJÃO SILVA <br> 3ºC/2019</td>
-        <td class="a1">BEATRIZ CARDOSO DA SILVA CAVALCANTE <br> 3ºD/2019</td>
-        <td class="a2">ESDRAS SANTOS GOIS <br> 3ºD/2019</td><br>
-        <tr></tr>
-        <td class="a2">GABRIEL REIS SANTANA <br> 2ºD/2019</td>
-        <td class="a1">GABRIELA SILVA GOMES <br> 3ºD/2019</td>
-        <td class="a2">ÍRIS NÉO ROCHA <br> 3ºF/2019</td>
-        <td class="a1">LORENNA SANTOS NASCIMENTO <br> 2ºD/2019</td>
-        <tr></tr>
+        <tr>
+            <td class="a1">ALINE ESTÉFANE MACHADO FIGUEIREDO <br> 3ºD/2019</td>
+            <td class="a2">ANDRIELLY MARIA VARJÃO SILVA <br> 3ºC/2019</td>
+            <td class="a1">BEATRIZ CARDOSO DA SILVA CAVALCANTE <br> 3ºD/2019</td>
+            <td class="a2">ESDRAS SANTOS GOIS <br> 3ºD/2019</td><br>
+        </tr>
+        <tr>
+            <td class="a2">GABRIEL REIS SANTANA <br> 2ºD/2019</td>
+            <td class="a1">GABRIELA SILVA GOMES <br> 3ºD/2019</td>
+            <td class="a2">ÍRIS NÉO ROCHA <br> 3ºF/2019</td>
+            <td class="a1">LORENNA SANTOS NASCIMENTO <br> 2ºD/2019</td>
+        </tr>
+        <tr>
         <td></td>
         <td class="a2">NATANAEL GOMES CARDOSO <br> 2ºA/2019</td>
         <td class="a1">VICTÓRIA GUADALUPE DE OLIVEIRA ARAGÃO <br> 3ºC/2019</td>
         <td></td>
+        </tr>
     </table>
     <div class="footer">
         <a href="mailto:eueduassessoria@gmail.com"><img src="app/src/images/edu-almeida.png" alt="Eduardo Almeida"></a>
     </div>
 </body>
+
 </html>
