@@ -159,6 +159,9 @@ a {
     text-align: center;
 }
 .alunos li {
+    color: white;
+    font-weight: bold;
+    font-family: Abel;
     float: left;
     height: 100px;
     width: 100px;
