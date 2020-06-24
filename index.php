@@ -161,7 +161,7 @@
             </div>
         </div>
     </div>
-    </div>   
+    </div>
     <div class="h2">
         <h2>ALUNOS ENVOLVIDOS</h2>
     </div>
@@ -181,12 +181,8 @@
         <td class="a1">VICTÓRIA GUADALUPE DE OLIVEIRA ARAGÃO <br> 3ºC/2019</td>
         <td></td>
     </table>
-
-
     <div class="footer">
         <a href="mailto:eueduassessoria@gmail.com"><img src="app/src/images/edu-almeida.png" alt="Eduardo Almeida"></a>
     </div>
-
 </body>
-
 </html>
