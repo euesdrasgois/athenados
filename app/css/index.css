@@ -156,6 +156,8 @@ a {
 }
 .alunos div {
     width: 22%;
+    height: 22%;
     display: inline-block;
     background-color: #b63450;
+    color: white;
 }
