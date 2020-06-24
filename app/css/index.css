@@ -158,12 +158,7 @@ a {
     vertical-align: middle;
     text-align: center;
 }
-.alunos li {
-    color: white;
-    font-weight: bold;
-    font-size: 10pt;
-    vertical-align: middle;
-    font-family: Abel;
+.alunos li {    
     float: left;
     height: 100px;
     width: 100px;    
@@ -175,4 +170,12 @@ a {
 }
 .alunos .aluno-b {
     background-color: #4d2765;
+}
+
+.alunos p{
+    color: white;
+    font-weight: bold;
+    font-size: 10pt;
+    vertical-align: middle;
+    font-family: Abel;
 }
