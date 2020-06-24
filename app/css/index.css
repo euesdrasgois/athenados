@@ -151,7 +151,7 @@ a {
     text-align: center; 
 }
 
-.alunos {
+.aluno {
     display: inline-block;
     grid-area: aluno;
     height: 100%;
