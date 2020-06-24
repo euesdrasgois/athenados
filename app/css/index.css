@@ -160,6 +160,7 @@ a {
 }
 .alunos li {
     float: left;
-    height: 22%;
-    width: 22%;    
+    height: 100px;
+    width: 100px;
+    background-color: #b63450; 
 }
