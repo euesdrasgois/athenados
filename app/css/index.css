@@ -155,8 +155,7 @@ a {
     overflow: hidden;
     list-style: none;
     margin: 0 0 0 10%;
-    vertical-align: middle;
-    text-align: center;
+    vertical-align: middle;    
 }
 .alunos li {    
     float: left;
@@ -178,4 +177,5 @@ a {
     font-size: 10pt;
     vertical-align: middle;
     font-family: Abel;
+    text-align: center;
 }
