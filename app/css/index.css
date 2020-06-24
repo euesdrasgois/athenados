@@ -155,4 +155,5 @@ a {
 }
 .alunos div {
     width: 22%;
+    display: inline-block;
 }
