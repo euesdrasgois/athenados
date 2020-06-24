@@ -151,23 +151,22 @@ a {
     text-align: center; 
 }
 .alunos {
-    width: 90%;  
-    margin: 0 0 0 10%;
+    width: 90%;
+    margin: 0 0 0 5%;
     color: white;
     font-weight: bold;
-    font-size: 10pt;    
+    font-size: 10pt;
     font-family: Abel;
     text-align: center;
 }
 .alunos div {
     display: inline-block;
     height: 100px;
-    width: 100px;  
+    width: 100px;
     padding: 10px;
     vertical-align: middle;
-
+    margin: 0 -2px;
 }
-
 .alunos .aluno-a {
     background-color: #b63450;   
 }
