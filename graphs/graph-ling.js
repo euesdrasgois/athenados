@@ -1,4 +1,4 @@
-goToLing(100)
+goToLing(0)
 
 
 function goToLing(frame) {
