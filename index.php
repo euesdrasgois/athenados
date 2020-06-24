@@ -175,8 +175,10 @@
         <li>Gabriela Silva Gomes - 3ºD/2019</li>
         <li>Íris Néo Rocha - 3ºF/2019</li>
         <li>Lorenna Santos Nascimento - 2ºD/2019</li>
+        <li></li>
         <li>Natanael Gomes Cardoso - 2ºA/2019</li>
         <li>Victória Guadalupe de Oliveira Aragão - 3ºC/2019</li>
+        <li></li>
     </ul>
 
 
