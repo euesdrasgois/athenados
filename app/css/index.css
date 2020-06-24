@@ -151,8 +151,7 @@ a {
     text-align: center; 
 }
 
-.aluno {
-    display: inline-block;
+.aluno {    
     grid-area: aluno;
     height: 100%;
     width: 100%;
