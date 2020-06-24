@@ -170,7 +170,7 @@
             <td class="a1">ALINE ESTÉFANE MACHADO FIGUEIREDO <br> 3ºD/2019</td>
             <td class="a2">ANDRIELLY MARIA VARJÃO SILVA <br> 3ºC/2019</td>
             <td class="a1">BEATRIZ CARDOSO DA SILVA CAVALCANTE <br> 3ºD/2019</td>
-            <td class="a2">ESDRAS SANTOS GOIS <br> 3ºD/2019</td><br>
+            <td class="a2">ESDRAS SANTOS GOIS <br> 3ºD/2019</td>
         </tr>
         <tr>
             <td class="a2">GABRIEL REIS SANTANA <br> 2ºD/2019</td>
