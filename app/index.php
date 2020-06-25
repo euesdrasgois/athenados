@@ -52,5 +52,6 @@ if ($connect && isset($_GET['version']) ? $_GET['version'] : "") {
             window.location.href = url
         }
     </script>
+    <script data-ad-client="ca-pub-8031069757508954" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </body>
 </html>
