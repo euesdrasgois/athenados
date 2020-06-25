@@ -48,6 +48,7 @@ if ($connect && isset($_GET['version']) ? $_GET['version'] : "") {
         
     </div>
     <script>
+        location.reload()
         function openPage(url){
             window.location.href = url
         }
