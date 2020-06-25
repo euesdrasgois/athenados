@@ -35,13 +35,17 @@ if ($connect && isset($_GET['version']) ? $_GET['version'] : "") {
     }
 }
 ?>
-    <div id="logo"><img src="src/images/logo.jpeg" alt="Athenados"></div>  
+    <div class="header">
+        <div class='headerMain'>
+            <img src="app/src/images/logo-header.png" alt="Athenados">
+        </div>
+    </div>  
     <div id="buttons">
         <img onclick="openPage('matematica/index.html')" src="src/images/matematica.png" alt="Matematica">
-        <img onclick="openPage('natureza/index.html')" src="src/images/natureza.png" alt="Natureza">
-        <br>
-        <img onclick="openPage('linguagens/index.html')" src="src/images/linguagens.png" alt="Linguagens">
+        <img onclick="openPage('natureza/index.html')" src="src/images/natureza.png" alt="Natureza">        
         <img onclick="openPage('humanas/index.html')" src="src/images/humanas.png" alt="Humanas">
+        <img onclick="openPage('linguagens/index.html')" src="src/images/linguagens.png" alt="Linguagens">
+        
     </div>
     <script>
         function openPage(url){
