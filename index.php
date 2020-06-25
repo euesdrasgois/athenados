@@ -207,6 +207,11 @@
         <a href="mailto:eueduassessoria@gmail.com"><img src="app/src/images/edu-almeida.png" alt="Eduardo Almeida"></a>
     </div>
     <script data-ad-client="ca-pub-8031069757508954" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script type="text/javascript">
+        var infolinks_pid = 3269565;
+        var infolinks_wsid = 0;
+    </script>
+    <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
 </body>
 
 </html>
