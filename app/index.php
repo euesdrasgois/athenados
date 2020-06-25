@@ -47,8 +47,7 @@ if ($connect && isset($_GET['version']) ? $_GET['version'] : "") {
         <img onclick="openPage('linguagens/index.html')" src="src/images/linguagens.png" alt="Linguagens">
         
     </div>
-    <script>
-        location.reload()
+    <script>        
         function openPage(url){
             window.location.href = url
         }
