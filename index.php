@@ -138,7 +138,7 @@
                 <div id="div-b">
                     <div>
                         <span><strong>DIEGO BATISTA</strong></span><br>
-                        <span>Formado em Física</span>
+                        <span>Formado em Física pela Universidade Federal de Sergipe</span>
                     </div>
                 </div>
             </div>
