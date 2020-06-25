@@ -37,7 +37,7 @@ if ($connect && isset($_GET['version']) ? $_GET['version'] : "") {
 ?>
     <div class="header">
         <div class='headerMain'>
-            <img src="app/src/images/logo-header.png" alt="Athenados">
+            <img src="src/images/logo-header.png" alt="Athenados">
         </div>
     </div>  
     <div id="buttons">
