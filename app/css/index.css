@@ -12,10 +12,7 @@ font-family: 'Montserrat', sans-serif;
     padding: 0;
     box-sizing: border-box;
 }
-.header {
-    position: fixed;
-    left: 0;
-    top: 0;
+.header {    
     width: 100%;  
     box-shadow: 0 2px 3px #000;  
 }
@@ -27,9 +24,6 @@ font-family: 'Montserrat', sans-serif;
 .headerMain img {
     width: 220px;
     margin: 10px;                                  
-}
-.content {
-    margin-top: 100px;
 }
 .h2 {    
     margin: 15px 0;
@@ -174,4 +168,12 @@ a {
 }
 .a2 {
     background-color: #4d2765;
+}
+
+@media(min-width: 500px){
+    body {
+        width: 500px;
+        margin: 0 auto;
+        border: 1px solid #4d2765;
+    }
 }
