@@ -10,16 +10,12 @@ font-family: 'Montserrat', sans-serif;
     padding: 0;
     box-sizing: border-box;
 }
-.header {   
-    position: fixed;
-    left: 0;
-    top: 0;     
+.header { 
     width: 100%;  
     box-shadow: 0 2px 3px #000;  
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .content{
-    margin-top: 110px;
     text-align: center;
 }
 .headerMain {
@@ -34,4 +30,24 @@ font-family: 'Montserrat', sans-serif;
 .frente {
     margin: 0;
     width: 80%;
+}
+.footer {
+    background-color: #b63450;       
+    text-align: center;
+    position: relative;
+    color: white;
+    font-size: 8pt;
+    padding: 10px;
+}
+.footer a {
+    text-decoration: none;
+    color: white;
+    font-size: 8pt;
+}
+@media(min-width: 500px){
+    body {
+        width: 500px;
+        margin: 0 auto;
+        border: 1px solid #4d2765;
+    }
 }

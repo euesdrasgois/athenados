@@ -23,6 +23,7 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
+    <script data-ad-client="ca-pub-8031069757508954" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 
 <body>
@@ -205,8 +206,7 @@
     </div>
     <div class="footer">
         <a href="mailto:eueduassessoria@gmail.com"><img src="app/src/images/edu-almeida.png" alt="Eduardo Almeida"></a>
-    </div>
-    <script data-ad-client="ca-pub-8031069757508954" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    </div>    
     <script type="text/javascript">
         var infolinks_pid = 3269565;
         var infolinks_wsid = 0;

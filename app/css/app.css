@@ -22,7 +22,7 @@ font-family: 'Montserrat', sans-serif;
     text-align: center;            
 }
 .headerMain img {
-    width: 45%;
+    width: 220px;
     margin: 10px;                                  
 }
 #buttons{
@@ -31,4 +31,24 @@ font-family: 'Montserrat', sans-serif;
 #buttons img {
     margin: 15px 0;
     width: 80%;
+}
+.footer {
+    background-color: #b63450;       
+    text-align: center;
+    position: relative;
+    color: white;
+    font-size: 8pt;
+    padding: 10px;
+}
+.footer a {
+    text-decoration: none;
+    color: white;
+    font-size: 8pt;
+}
+@media(min-width: 500px){
+    body {
+        width: 500px;
+        margin: 0 auto;
+        border: 1px solid #4d2765;
+    }
 }
