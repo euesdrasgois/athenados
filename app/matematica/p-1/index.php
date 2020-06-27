@@ -13,7 +13,7 @@
         ?>
         <!-- ########################### -->        
         <div class="content">
-            <img class=" assunto" src="../../src/images/subjects/matematica/p1/potenciacao.png" alt="Frações">
+            <a href="potenciacao.php"><img class=" assunto" src="../../src/images/subjects/matematica/p1/potenciacao.png" alt="Frações"></a>
             <img class="assunto" src="../../src/images/subjects/matematica/p1/radiciacao.png" alt="">
         </div>
         <!-- ########################### -->
