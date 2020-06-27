@@ -16,15 +16,17 @@ body{
     color: #4d2765;
     font-weight: bold;
 }
-.content {
-    margin: 20px 10px;
-}
-#versionUpdate {
+.content div {
+    display: inline-block;
     border: 1px solid #4d2765;
     width: fit-content;
-    height: fit-content;
+    height: 180px;
     border-radius: 10px;
     padding: 10px;
+    vertical-align: middle;
+}
+.content {
+    margin: 20px 10px;
 }
 input {
     margin: 5px 0;
@@ -41,6 +43,10 @@ input {
 h2 {
     margin-bottom: 10px;
     text-align: center;
+}
+
+#second {
+    color: #b63450;
 }
 
 @media (max-width: 800px){    

@@ -87,7 +87,7 @@
             <strong>PARA TESTAR O APLICATIVO</strong>
         </p>
         <div class="clickHere">
-            <a href="download/Athenados.apk" download="Athenados.apk"><img src="app/src/images/click_here.png" alt="Clique aqui"></a>
+            <a href="download/""><img src="app/src/images/click_here.png" alt="Clique aqui"></a>
         </div>
         <div class="h2">
             <h2>FEEDBACK</h2>

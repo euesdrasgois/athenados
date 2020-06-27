@@ -42,7 +42,7 @@ include 'verifica_login.php';
     ?>
 
     <div class="content">
-        <div id="versionUpdate" class="left">
+        <div>
             <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST" enctype="multipart/form-data">
                 <h2>Enviar Atualização</h2>
                 <label for="version">Nome da Versão: </label><input type="text" name="version" id="version"><br>
@@ -53,6 +53,45 @@ include 'verifica_login.php';
             if ($mensagem) {
                 echo $mensagem;
             }
+            ?>
+        </div>
+        <div>
+            <?php
+            include '../admin/conexao.php';
+            $_query = "SELECT * FROM app_info";
+            $_result = mysqli_query($conexao, $_query);
+            $rows = mysqli_num_rows($_result);
+            $query_version = "SELECT version FROM app_info WHERE id = {$rows}";
+            $result_version = mysqli_query($conexao, $query_version);
+            $_version = mysqli_fetch_row($result_version);
+            $version = $_version[0];
+            //--------------------------------------
+            $query_date = "SELECT date FROM app_info WHERE id = {$rows}";
+            $result_date = mysqli_query($conexao, $query_date);
+            $_date = mysqli_fetch_row($result_date);
+            $date = $_date[0];
+            //----------------------------------------
+            $query_counter = "SELECT counter FROM app_info WHERE id = {$rows}";
+            $result_counter = mysqli_query($conexao, $query_counter);
+            $_counter = mysqli_fetch_row($result_counter);
+            $counter = $_counter[0];
+            //-------------------------------------------
+            $downloads = 0;
+            for ($i = 1; $i <= $rows; $i++) {
+                $query_down = "SELECT counter FROM app_info WHERE id = {$i}";
+                $result_down = mysqli_query($conexao, $query_down);
+                $_down = mysqli_fetch_row($result_down);
+                $down = $_down[0];
+                $down = intval($down);
+                $downloads += $down;                
+            }
+
+            echo "
+                <h2>Informações do Aplicativo</h2>
+                <p>Versão Atual: <span id='second'>" . $version . "</span></p>
+                <p>Data da atualização: <span id='second'>" . $date . "</span></p>
+                <p>Usuários atualizados: <span id='second'>" . $counter . "</span></p>
+                <p>Total de downloads: <span id='second'>" . $downloads . "</span></p>";
             ?>
         </div>
     </div>
