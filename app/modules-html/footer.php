@@ -41,6 +41,6 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/80x15.png" /><br></a>Esse trabalho é licenciado pela <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
     </div>
     <div id="fRight">
-        <a href="mailto:eueduassessoria@gmail.com"><img id="edu" src="http://www.athenados.com/app/src/images/edu-almeida.png" alt="Eduardo Almeida"></a>
+        <a href="mailto:eueduassessoria@gmail.com"><img id="edu" src="https://www.athenados.com/app/src/images/edu-almeida.png" alt="Eduardo Almeida"></a>
     </div>
 </div>
