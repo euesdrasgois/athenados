@@ -43,7 +43,7 @@ include 'verifica_login.php';
 
     <div class="content">
         <?php
-            echo "<h1>Bem vindo, {$_SESSION['nome']}!</h1>"
+            echo "<h1>Bem vindo, {$_SESSION['nome']}! <a style='font-size: 12pt' href='logout.php'>Sair</a></h1>"
         ?>
         <div>
             <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST" enctype="multipart/form-data">
