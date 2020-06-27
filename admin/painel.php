@@ -97,6 +97,29 @@ include 'verifica_login.php';
                 <p>Total de downloads: <span id='second'>" . $downloads . "</span></p>";
             ?>
         </div>
+        <div id="menor">           
+            <form action="trocarsenha.php" method="post">
+            <label for="oldPass">Senha atual: </label><input name="oldPass" type="password">
+            <label for="newPass">Nova senha: </label><input name="newPass" type="password">     
+            <input id="enviar" type="submit" value="Trocar Senha">       
+            </form>
+            <?php
+            if (isset($_SESSION['trocada'])) :
+            ?>
+            Senha trocada com sucesso!
+            <?php          
+            endif;                      
+            unset($_SESSION['trocada']);            
+            ?>
+            <?php
+            if (isset($_SESSION['nao_trocada'])) :
+            ?>
+            Senha inválida!
+            <?php          
+            endif;                      
+            unset($_SESSION['nao_trocada']);            
+            ?>
+        </div>
     </div>
 </body>
 

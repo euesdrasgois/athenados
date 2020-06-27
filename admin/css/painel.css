@@ -49,6 +49,9 @@ h2 {
 #second {
     color: #b63450;
 }
+#menor {
+    width: 200px;
+}
 
 @media (max-width: 800px){    
 }
