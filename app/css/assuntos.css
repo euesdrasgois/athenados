@@ -5,18 +5,12 @@ font-family: 'Balsamiq Sans', cursive;
 font-family: 'Dosis', sans-serif;
 font-family: 'Montserrat', sans-serif;
 */
-.classes{
-    width: 103.8%;
-    margin: 20px -8px;
+.content {
+    margin: 20px 0;
 }
-
-
-/* BOTÃO VOLTAR */
-.divBack {
-    text-align: center;
-}
-.btnBack{
-    width: 45px;
+.assunto {
+    width: 49%;
+    display: inline-block;
 }
 @media(min-width: 500px){
     body {
