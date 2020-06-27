@@ -37,6 +37,10 @@ input {
     font-family: Abel;
     border-radius: 20px;
 }
+h2 {
+    margin-bottom: 10px;
+    text-align: center;
+}
 
 @media (max-width: 800px){    
 }
