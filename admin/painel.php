@@ -42,6 +42,9 @@ include 'verifica_login.php';
     ?>
 
     <div class="content">
+        <?php
+            echo "<h1>Bem vindo, {$_SESSION['nome']}!</h1>"
+        ?>
         <div>
             <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST" enctype="multipart/form-data">
                 <h2>Enviar Atualização</h2>
