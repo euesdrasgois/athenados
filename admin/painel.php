@@ -43,9 +43,9 @@ include 'verifica_login.php';
 
     <div class="content">
         <?php
-            echo "<h1>Bem vindo, {$_SESSION['nome']}! <a style='font-size: 12pt' href='logout.php'>Sair</a></h1>"
+        echo "<h1>Bem vindo, {$_SESSION['nome']}! <a style='font-size: 12pt' href='logout.php'>Sair</a></h1>"
         ?>
-        <div>
+        <div class="all">
             <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST" enctype="multipart/form-data">
                 <h2>Enviar Atualização</h2>
                 <label for="version">Nome da Versão: </label><input type="text" name="version" id="version"><br>
@@ -58,7 +58,7 @@ include 'verifica_login.php';
             }
             ?>
         </div>
-        <div>
+        <div class="all">
             <?php
             include '../admin/conexao.php';
             $_query = "SELECT * FROM app_info";
@@ -86,7 +86,7 @@ include 'verifica_login.php';
                 $_down = mysqli_fetch_row($result_down);
                 $down = $_down[0];
                 $down = intval($down);
-                $downloads += $down;                
+                $downloads += $down;
             }
 
             echo "
@@ -97,29 +97,37 @@ include 'verifica_login.php';
                 <p>Total de downloads: <span id='second'>" . $downloads . "</span></p>";
             ?>
         </div>
-        <div id="menor">           
+        <div class="all" id="menor">
+            <h2>Trocar Senha</h2>
             <form action="trocarsenha.php" method="post">
-            <label for="oldPass">Senha atual: </label><input name="oldPass" type="password">
-            <label for="newPass">Nova senha: </label><input name="newPass" type="password">     
-            <input id="enviar" type="submit" value="Trocar Senha">       
+                <label for="oldPass">Senha atual: </label><input name="oldPass" type="password">
+                <label for="newPass">Nova senha: </label><input name="newPass" type="password">
+                <input id="enviar" type="submit" value="Trocar Senha">
             </form>
             <?php
             if (isset($_SESSION['trocada'])) :
             ?>
-            Senha trocada com sucesso!
-            <?php          
-            endif;                      
-            unset($_SESSION['trocada']);            
+                Senha trocada com sucesso!
+            <?php
+            endif;
+            unset($_SESSION['trocada']);
             ?>
             <?php
             if (isset($_SESSION['nao_trocada'])) :
             ?>
-            Senha inválida!
-            <?php          
-            endif;                      
-            unset($_SESSION['nao_trocada']);            
+                Senha inválida!
+            <?php
+            endif;
+            unset($_SESSION['nao_trocada']);
             ?>
         </div>
+        <div>
+            <textarea name="txtArtigo" id="txtArtigo"></textarea>
+        </div>
+        <script src="../ckeditor/ckeditor.js"></script>
+        <script>
+            CKEDITOR.replace('txtArtigo', {language: 'pt-br'});            
+        </script>
     </div>
 </body>
 

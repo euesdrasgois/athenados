@@ -16,7 +16,7 @@ body{
     color: #4d2765;
     font-weight: bold;
 }
-.content div {
+.content .all {
     display: inline-block;
     border: 1px solid #4d2765;
     width: fit-content;
@@ -53,5 +53,11 @@ h2 {
     width: 200px;
 }
 
-@media (max-width: 800px){    
+@media (max-width: 800px){  
+    .content .all{
+        width: 95%;
+    }  
+    #menor {
+        width: 95%;
+    }
 }
