@@ -12,19 +12,6 @@ font-family: 'Montserrat', sans-serif;
     padding: 0;
     box-sizing: border-box;
 }
-.header {    
-    width: 100%;  
-    box-shadow: 0 2px 3px #000;  
-}
-.headerMain {
-    height: 100px;
-    background-color: #b63450;
-    text-align: center;            
-}
-.headerMain img {
-    width: 220px;
-    margin: 10px;                                  
-}
 .h2 {    
     margin: 15px 0;
     background-color: #4d2765;        
@@ -103,17 +90,6 @@ a {
 #listaProf .prof-b {
     background-color: #b63450;
 }
-.footer {
-    background-color: #b63450;       
-    text-align: center;
-    position: relative;
-
-}
-.footer img{
-    width: 40%;
-    padding: 10px;
-}
-
 #g1 {
     width: 100px;
     height: 100px;

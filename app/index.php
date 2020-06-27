@@ -37,21 +37,19 @@
         }
     }
     ?>
-    <div class="header">
-        <div class='headerMain'>
-            <img src="src/images/logo-header.png" alt="Athenados">
-        </div>
-    </div>
+    <?php
+    include 'modules-html/header.php';
+    ?>
     <div id="buttons">
-        <img onclick="openPage('matematica/index.html')" src="src/images/matematica.png" alt="Matematica">
-        <img onclick="openPage('natureza/index.html')" src="src/images/natureza.png" alt="Natureza">
-        <img onclick="openPage('humanas/index.html')" src="src/images/humanas.png" alt="Humanas">
-        <img onclick="openPage('linguagens/index.html')" src="src/images/linguagens.png" alt="Linguagens">
+        <img onclick="openPage('matematica')" src="src/images/matematica.png" alt="Matematica">
+        <img onclick="openPage('natureza')" src="src/images/natureza.png" alt="Natureza">
+        <img onclick="openPage('humanas')" src="src/images/humanas.png" alt="Humanas">
+        <img onclick="openPage('linguagens')" src="src/images/linguagens.png" alt="Linguagens">
 
     </div>
-    <div class="footer">
-    <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/80x15.png" /><br></a>Esse trabalho é licenciado pela <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
-    </div> 
+    <?php
+    include 'modules-html/footer.php';
+    ?>
     <script>
         function openPage(url) {
             window.location.href = url

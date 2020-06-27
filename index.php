@@ -54,11 +54,9 @@
         }
     }
     ?>
-    <div class="header">
-        <div class='headerMain'>
-            <img src="app/src/images/logo-header.png" alt="Athenados">
-        </div>
-    </div>
+    <?php
+    include 'app/modules-html/header.php';
+    ?>
     <div class="content">
         <div class="h2">
             <h2>O APLICATIVO</h2>
@@ -204,9 +202,9 @@
             </tr>
         </table>
     </div>
-    <div class="footer">
-        <a href="mailto:eueduassessoria@gmail.com"><img src="app/src/images/edu-almeida.png" alt="Eduardo Almeida"></a>
-    </div>    
+    <?php
+    include 'app/modules-html/footer.php';
+    ?>
     <script type="text/javascript">
         var infolinks_pid = 3269565;
         var infolinks_wsid = 0;

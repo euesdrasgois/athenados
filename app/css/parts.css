@@ -5,34 +5,6 @@ font-family: 'Balsamiq Sans', cursive;
 font-family: 'Dosis', sans-serif;
 font-family: 'Montserrat', sans-serif;
 */
-.headerMain {
-    width: 100% + 1px;
-    height: 100px;
-    background-color: #b63450;
-    margin: -8px -8px 0 -8px;
-    position: relative;
-}
-
-.subject {
-    color: white;
-    font-size: 30pt;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    position: absolute;
-    height: 47.7px;
-    left: 50%;
-    transform: translate(-50%, 0);
-}
-.headerDesc {    
-    background-color: #4d2765;
-    margin: 0 -8px;  
-    padding: 7px;  
-    text-align: center;
-}
-.headerDesc span {       
-    color: white;
-    font-family: 'Arial', sans-serif;       
-    letter-spacing: 1px;
-}
 .classes{
     width: 103.8%;
     margin: 20px -8px;
@@ -46,3 +18,11 @@ font-family: 'Montserrat', sans-serif;
 .btnBack{
     width: 45px;
 }
+@media(min-width: 500px){
+    body {
+        width: 500px;
+        margin: 0 auto;
+        border: 1px solid #4d2765;
+    }
+}
+
