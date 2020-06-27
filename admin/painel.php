@@ -29,7 +29,7 @@ include 'verifica_login.php';
             if (move_uploaded_file($temporario, $pasta . $novonome)) {
                 $mensagem = "Upload feito com sucesso!";
                 include 'conexao.php';
-                $query = "INSERT INTO `app_info` (`id`, `version`, `date`) VALUES (NULL, '{$_POST['version']}', CURRENT_DATE());";
+                $query = "INSERT INTO `app_info` (`id`, `version`, `date`, `counter`) VALUES (NULL, '{$_POST['version']}', CURRENT_DATE(), 0);";
                 $result = mysqli_query($conexao, $query);
             } else {
                 $mensagem = "Erro. Não foi possível completar o upload.";
