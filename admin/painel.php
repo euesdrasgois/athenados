@@ -130,5 +130,4 @@ include 'verifica_login.php';
         </script>
     </div>
 </body>
-
 </html>
